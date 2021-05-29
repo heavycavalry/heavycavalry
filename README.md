@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif" alt=""/>
 
-I'm second year student of the Infomatic and Econometics in Krakow. I am open-minded, motivated, with positive atitute. I find learning new thigs joyfull :)
+I'm second year student of the Infomatic and Econometics in Krakow. I am open-minded, motivated, with positive atitute. I find learning new things joyfull :)
 
 - 🔭 I’m currently working on my projects like this one: https://heavycavalry.github.io/employment-portal/ Hello third year of Informatics :D
 - 🌱 I’m currently learning React and Typescript
