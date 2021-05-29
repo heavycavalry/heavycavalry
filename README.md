@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi everyone! I'm Klaudia, soon-to-be Software Developer ! 👋
 
-<!--
-**heavycavalry/heavycavalry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif" alt=""/>
 
-Here are some ideas to get you started:
+I'm second year student of the Infomatic and Econometics in Krakow. I am open-minded, motivated, with positive atitute. I find learning new thigs joyfull :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my projects like this one: https://heavycavalry.github.io/employment-portal/ Hello third year of Informatics :D
+- 🌱 I’m currently learning React abd Typescript
+- 💬 Ask me about anything :D
+- 📫 How to reach me:
+facebook: https://www.facebook.com/klaudia.paluch.9
+linkendIn: https://www.linkedin.com/in/klaudia-paluch-11499b179/
+
+- 🤞 I'm looking for internship opportunities 🤞 -
+
+- ⚡ I really want to learn more about SEO and Web Accessibilty
 -->
+
+<img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" alt=""/>
