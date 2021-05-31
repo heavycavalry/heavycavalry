@@ -8,8 +8,8 @@
 - ⚡ I really want to learn more about SEO and Web Accessibilty
 
 ### Connect with me:
-- [<img src="https://image.flaticon.com/icons/png/512/1312/1312139.png" width="30px" alt="facebook"/>][facebook]
-- [<img src="https://image.flaticon.com/icons/png/512/185/185964.png" width="30px" alt="linkedin"/>][linkedin]
+[<img src="https://image.flaticon.com/icons/png/512/1312/1312139.png" width="30px" alt="facebook"/>][facebook]
+[<img src="https://image.flaticon.com/icons/png/512/185/185964.png" width="30px" alt="linkedin"/>][linkedin]
 
 ### Languages and Tools:
 <p float="left">
