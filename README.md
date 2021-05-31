@@ -1,5 +1,5 @@
 ## Hi everyone! I'm Klaudia, soon-to-be Software Developer ! 👋
-### Right now second year student of the Infomatic and Econometics in Krakow. 
+### Right now - second year Student of the Infomatic and Econometics in Krakow. 
 <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
 
 - 🖥️ My latest project: https://heavycavalry.github.io/employment-portal/ Hello third year of Informatics 💪
