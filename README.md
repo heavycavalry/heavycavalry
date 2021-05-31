@@ -1,8 +1,8 @@
 ## Hi everyone! I'm Klaudia, soon-to-be Software Developer ! 👋
-### I'm second year student of the Infomatic and Econometics in Krakow. 
+### Right now second year student of the Infomatic and Econometics in Krakow. 
 <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt=""/>
 
-- 🖥️ My latest project: [https://heavycavalry.github.io/employment-portal/] Hello third year of Informatics 💪
+- 🖥️ My latest project: https://heavycavalry.github.io/employment-portal/ Hello third year of Informatics 💪
 - 📝 I’m currently learning React and Typescript 
 - ⚡ I really want to learn more about SEO and Web Accessibilty
 - 🏁 My 2021 Goals: take my Spanish<img src="https://images.emojiterra.com/google/android-11/128px/1f1ea-1f1f8.png" width="20px" alt=""/> to the next level, find the best intership 🤞, buy more plants 🌿 🤫
