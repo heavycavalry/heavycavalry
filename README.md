@@ -4,8 +4,8 @@
 
 - 🖥️ My latest project: https://heavycavalry.github.io/employment-portal/ Hello third year of Informatics 💪
 - 📝 I’m currently learning React and Typescript 
+- 🏁 My 2021 Goals: take my Spanish to the next level <img src="https://images.emojiterra.com/google/android-11/128px/1f1ea-1f1f8.png" width="20px" alt=""/>, find the best intership 🤞, buy more plants 🌿 🤫
 - ⚡ I really want to learn more about SEO and Web Accessibilty
-- 🏁 My 2021 Goals: take my Spanish<img src="https://images.emojiterra.com/google/android-11/128px/1f1ea-1f1f8.png" width="20px" alt=""/> to the next level, find the best intership 🤞, buy more plants 🌿 🤫
 
 ### Connect with me:
 - [<img src="https://image.flaticon.com/icons/png/512/1384/1384053.png" width="20px" alt=""/>][facebook]
