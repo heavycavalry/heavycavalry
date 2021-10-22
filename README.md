@@ -1,11 +1,6 @@
 ## Hi everyone! I'm Klaudia, soon-to-be Software Developer ! 👋
-### Right now - second year Student of the Infomatic and Econometics in Krakow. 
+### Right now - third year Student of the Infomatic and Econometics in Krakow. 
 <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
-
-- 🖥️ My latest project: https://heavycavalry.github.io/employment-portal/ Hello third year of Informatics 💪
-- 📝 I’m currently learning **React** and **Typescript** 
-- 🏁 My 2021 Goals: take my Spanish to the next level <img src="https://images.emojiterra.com/google/android-11/128px/1f1ea-1f1f8.png" width="20px" alt=""/>, find the best **intership** 🤞, buy more plants 🌿 🤫
-- ⚡ I really want to learn more about SEO and Web Accessibilty
 
 ### Connect with me:
 [<img src="https://image.flaticon.com/icons/png/512/1312/1312139.png" width="30px" alt="facebook"/>][facebook]
@@ -19,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="50px" alt="visual studio code"/>
 <img src="https://image.flaticon.com/icons/png/512/1260/1260667.png" width="50px" alt="react"/>
 <img src="https://image.flaticon.com/icons/png/512/603/603201.png" width="50px" alt="sql"/>
+<img src="https://user-images.githubusercontent.com/47197438/138458585-ef548fe6-a117-413a-8df6-4984cd51e531.png" width="50px" alt="javascript"/>
 </p>
 
 
