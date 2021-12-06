@@ -1,4 +1,4 @@
-## Hi everyone! I'm Klaudia, soon-to-be Software Developer ! 👋
+## Hi everyone! I'm Klaudia ! 👋
 ### Right now - third year Student of the Infomatic and Econometics in Krakow. 
 <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
 
