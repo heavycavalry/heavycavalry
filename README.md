@@ -1,5 +1,6 @@
 ## Hi everyone! I'm Klaudia ! 👋
 ### Right now - third year Student of the Infomatic and Econometics in Krakow. 
+#### I intensively develop my skills in frontend technologies.
 <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
 
 ### Connect with me:
