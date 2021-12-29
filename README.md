@@ -1,5 +1,5 @@
 ## Hi everyone! I'm Klaudia ! 👋
-### Right now - third year Student of the Infomatic and Econometics in Krakow. 
+### Third year Student of the Infomatic and Econometics in Krakow. Full-stack module.
 #### I intensively develop my skills in frontend technologies. Right now on board => Gatsby js :)
 <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
 
