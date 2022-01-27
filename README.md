@@ -1,8 +1,10 @@
 ## Hi everyone! I'm Klaudia ! 👋
 ### Third year Student of the Infomatic and Econometics in Krakow. Full-stack module.
-#### I intensively develop my skills in frontend technologies. Right now on board => Gatsby js :)
-<img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
+#### I intensively develop my skills in frontend technologies.
 
+<img src="https://uploads-ssl.webflow.com/61b091f276dafd4b7a56771f/61b091f276dafdc1db56772e_dareit-portfolio-challenge-logo.svg" width="200px" alt="gif of the girl in comfortable clothes sitting and coding on her laptop with coffee"/>
+<img src="https://image.flaticon.com/icons/png/512/919/919827.png" width="50px" alt="html5"/>
+<img src="https://i0.wp.com/girlsjs.pl/wp-content/uploads/2017/04/kaczucha.png?fit=180%2C68&ssl=1" width="50px" alt="html5"/>
 ### Connect with me:
 [<img src="https://image.flaticon.com/icons/png/512/1312/1312139.png" width="30px" alt="facebook"/>][facebook]
 [<img src="https://image.flaticon.com/icons/png/512/185/185964.png" width="30px" alt="linkedin"/>][linkedin]
