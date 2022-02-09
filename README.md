@@ -1,5 +1,5 @@
 ## Hi everyone! I'm Klaudia ! 👋
-### Third year Student of the Infomatic and Econometics in Krakow. Full-stack module.
+### Third year Student of the Infomatic and Econometics in Krakow.
 #### I intensively develop my skills in frontend technologies.
 
 ### Connect with me:
